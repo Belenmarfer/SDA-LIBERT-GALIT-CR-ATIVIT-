@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026060913041024A8XH</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260609130410Y4FZ6C</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA &quot;LIBERTÉ, ÉGALITÉ ET CRÉATIVITÉ&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Recurso Educativo 1ºESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Belén Marruecos Fernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje basada en el diseño de propuestas creativas de moda mediante herramientas digitales, fomentando la creatividad y la competencia digital.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780959778766</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+      <odeBlockId>block-1780937054938-f060mhhtx</odeBlockId>
+      <blockName>SDA 1º ESO: &quot;LIBERTÉ, ÉGALITÉ, CRÉATIVITÉ&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+          <odeBlockId>block-1780937054938-f060mhhtx</odeBlockId>
+          <odeIdeviceId>idevice-1780937054935-3cyh8a1f2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure float-left" style="width: 200px;"><img src="https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&amp;w=1374&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="Moda y belleza" width="200" height="150" alt="Moda y Belleza" />
+<figcaption class="figcaption"><a href=" Alyssa Strohmann" class="author" target="_blank" rel="noopener">Alysaa Strohmann</a>. <a href="Moda" class="title" target="_blank" rel="noopener"><em>Moda</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;">La SdA gira en torno al mundo de la moda, la creatividad y la cultura francófona. A través de actividades relacionadas con la ropa, los accesorios, las estaciones del año y las marcas francesas más conocidas, descubriremos aspectos culturales de los países francófonos mientras desarrollamos la competencias lingüística y digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937054935-3cyh8a1f2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure float-left\" style=\"width: 200px;\"><img src=\"https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&amp;w=1374&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" title=\"Moda y belleza\" width=\"200\" height=\"150\" alt=\"Moda y Belleza\" />\n<figcaption class=\"figcaption\"><a href=\" Alyssa Strohmann\" class=\"author\" target=\"_blank\" rel=\"noopener\">Alysaa Strohmann</a>. <a href=\"Moda\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Moda</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\">La SdA gira en torno al mundo de la moda, la creatividad y la cultura francófona. A través de actividades relacionadas con la ropa, los accesorios, las estaciones del año y las marcas francesas más conocidas, descubriremos aspectos culturales de los países francófonos mientras desarrollamos la competencias lingüística y digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+      <odeBlockId>block-1780937808452-2vc0fy3r6</odeBlockId>
+      <blockName>PROYECTO FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+          <odeBlockId>block-1780937808452-2vc0fy3r6</odeBlockId>
+          <odeIdeviceId>idevice-1780937808449-0p3dp6p1v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 400px;"><img src="https://images.unsplash.com/photo-1557777586-f6682739fcf3?q=80&amp;w=870&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="Moda y Belleza" width="400" height="100" alt="Moda y Belleza" />
+<figcaption class="figcaption"><a href="https://unsplash.com/es/@charlotablunarova" class="author" target="_blank" rel="noopener">Charlota Blunarova</a>. <span class="title"><em>Moda y Belleza</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;">El proyecto final será la creación de una <a href="https://www.france.fr/es/evento/desfiles-alta-costura-primavera-verano-fashion-week-paris/" title="">“Fashion Week”,</a> donde diseñaréis y presentaréis vuestra propia marca de moda mediante herramientas digitales y producciones orales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780937808449-0p3dp6p1v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 400px;\"><img src=\"https://images.unsplash.com/photo-1557777586-f6682739fcf3?q=80&amp;w=870&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" title=\"Moda y Belleza\" width=\"400\" height=\"100\" alt=\"Moda y Belleza\" />\n<figcaption class=\"figcaption\"><a href=\"https://unsplash.com/es/@charlotablunarova\" class=\"author\" target=\"_blank\" rel=\"noopener\">Charlota Blunarova</a>. <span class=\"title\"><em>Moda y Belleza</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\">El proyecto final será la creación de una <a href=\"https://www.france.fr/es/evento/desfiles-alta-costura-primavera-verano-fashion-week-paris/\" title=\"\">“Fashion Week”,</a> donde diseñaréis y presentaréis vuestra propia marca de moda mediante herramientas digitales y producciones orales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+      <odeBlockId>block-1780938019743-z9d7wh7pm</odeBlockId>
+      <blockName>TEMPORALIZACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+          <odeBlockId>block-1780938019743-z9d7wh7pm</odeBlockId>
+          <odeIdeviceId>idevice-1780938019739-qxqk5zgbf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure float-right" style="width: 180px;"><img src="https://images.unsplash.com/photo-1501139083538-0139583c060f?q=80&amp;w=1740&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="Tiempo" width="180" height="121" alt="Tiempo" />
+<figcaption class="figcaption"><a href="https://unsplash.com/es/@aronvisuals" class="author" target="_blank" rel="noopener">Aron Visuals</a>. <span class="title"><em>Tiempo</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;">La situación de aprendizaje se desarrollará aproximadamente durante 8 sesiones de este tercer trimestre.</p>
+<p style="text-align: center;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780938019739-qxqk5zgbf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure float-right\" style=\"width: 180px;\"><img src=\"https://images.unsplash.com/photo-1501139083538-0139583c060f?q=80&amp;w=1740&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" title=\"Tiempo\" width=\"180\" height=\"121\" alt=\"Tiempo\" />\n<figcaption class=\"figcaption\"><a href=\"https://unsplash.com/es/@aronvisuals\" class=\"author\" target=\"_blank\" rel=\"noopener\">Aron Visuals</a>. <span class=\"title\"><em>Tiempo</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\">La situación de aprendizaje se desarrollará aproximadamente durante 8 sesiones de este tercer trimestre.</p>\n<p style=\"text-align: center;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+      <odeBlockId>block-1780938099509-2mksm58k7</odeBlockId>
+      <blockName>MATERIAS IMPLICADAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+          <odeBlockId>block-1780938099509-2mksm58k7</odeBlockId>
+          <odeIdeviceId>idevice-1780938099506-s6r63idf6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Francés</li>
+<li>Tecnología y Digitalización</li>
+<li>Educación Plástica y Visual</li>
+<li>Valores Cívicos y Éticos (igualdad y respeto intercultural) </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780938099506-s6r63idf6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Francés</li>\n<li>Tecnología y Digitalización</li>\n<li>Educación Plástica y Visual</li>\n<li>Valores Cívicos y Éticos (igualdad y respeto intercultural) </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+      <odeBlockId>block-1780938228144-xo27ektpv</odeBlockId>
+      <blockName>¿QUÉ VAMOS A APRENDER?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4i-zvwjjwk3f</odePageId>
+          <odeBlockId>block-1780938228144-xo27ektpv</odeBlockId>
+          <odeIdeviceId>idevice-1780938228141-8yzsaysch</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>El vocabulario relacionado con la ropa, los accesorios y las estaciones.</li>
+<li>Ser capaz de describir prendas y expresar gustos y opiniones.</li>
+<li>Desarrollar la expresión oral mediante presentaciones y desfiles.</li>
+<li>Conocer referentes culturales francófonos relacionados con la moda, como Coco Chanel o la Fashion Week de París.</li>
+<li>Mejorar la competencia digital mediante el uso de herramientas como Canva para crear carteles, presentaciones y diseños visuales.</li>
+<li>Potenciar la creatividad, el trabajo cooperativo y la autonomía.</li>
+<li>Trabajar valores relacionados con la igualdad, la inclusión y el respeto hacia otras culturas.</li>
+<li>Aprender a comunicar información de forma visual y atractiva utilizando recursos <a href="#td780e913-62cb-32da-6932-d76a6e51ac19" id="linkd780e913-62cb-32da-6932-d76a6e51ac19" title="TIC | " class="exe-tooltip definition-tt titled-tt red-tt rounded-tt shadowed-tt">TIC. </a></li>
+</ul>
+<figure class="exe-figure position-center" style="width: 200px;"><img src="https://plus.unsplash.com/premium_vector-1720670407512-4fdfe6e67a18?q=80&amp;w=878&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="Aprendizaje" width="200" height="100" alt="Aprendizaje" />
+<figcaption class="figcaption"><a href="https://unsplash.com/es/@ianmikraz/ilustraciones" class="author" target="_blank" rel="noopener">Ian Mikraz</a>. <span class="title"><em>Aprendizaje</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<div id="td780e913-62cb-32da-6932-d76a6e51ac19" class="exe-tooltip-text">
+<p>Tecnologías de la Información y la Comunicación.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780938228141-8yzsaysch","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>El vocabulario relacionado con la ropa, los accesorios y las estaciones.</li>\n<li>Ser capaz de describir prendas y expresar gustos y opiniones.</li>\n<li>Desarrollar la expresión oral mediante presentaciones y desfiles.</li>\n<li>Conocer referentes culturales francófonos relacionados con la moda, como Coco Chanel o la Fashion Week de París.</li>\n<li>Mejorar la competencia digital mediante el uso de herramientas como Canva para crear carteles, presentaciones y diseños visuales.</li>\n<li>Potenciar la creatividad, el trabajo cooperativo y la autonomía.</li>\n<li>Trabajar valores relacionados con la igualdad, la inclusión y el respeto hacia otras culturas.</li>\n<li>Aprender a comunicar información de forma visual y atractiva utilizando recursos <a href=\"#td780e913-62cb-32da-6932-d76a6e51ac19\" id=\"linkd780e913-62cb-32da-6932-d76a6e51ac19\" title=\"TIC | \" class=\"exe-tooltip definition-tt titled-tt red-tt rounded-tt shadowed-tt\">TIC. </a></li>\n</ul>\n<figure class=\"exe-figure position-center\" style=\"width: 200px;\"><img src=\"https://plus.unsplash.com/premium_vector-1720670407512-4fdfe6e67a18?q=80&amp;w=878&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" title=\"Aprendizaje\" width=\"200\" height=\"100\" alt=\"Aprendizaje\" />\n<figcaption class=\"figcaption\"><a href=\"https://unsplash.com/es/@ianmikraz/ilustraciones\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ian Mikraz</a>. <span class=\"title\"><em>Aprendizaje</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<div id=\"td780e913-62cb-32da-6932-d76a6e51ac19\" class=\"exe-tooltip-text\">\n<p>Tecnologías de la Información y la Comunicación.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4k-rv0r0ggr5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4k-rv0r0ggr5</odePageId>
+      <odeBlockId>block-1780959252183-n5rlm86en</odeBlockId>
+      <blockName>¿QUÉ VAMOS A TRABAJAR?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4k-rv0r0ggr5</odePageId>
+          <odeBlockId>block-1780959252183-n5rlm86en</odeBlockId>
+          <odeIdeviceId>idevice-1780959252182-h899ca5jf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En los siguientes subapartados se detallan las actividades y su temporalización, el producto final, los criterios e instrumentos de evaluación, así como los recursos y herramientas que se utilizarán durante el desarrollo de la Situación de Aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780959252182-h899ca5jf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En los siguientes subapartados se detallan las actividades y su temporalización, el producto final, los criterios e instrumentos de evaluación, así como los recursos y herramientas que se utilizarán durante el desarrollo de la Situación de Aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4k-bbbvkz4pz</odePageId>
+  <odeParentPageId>page-mq5tgw4k-rv0r0ggr5</odeParentPageId>
+  <pageName>2.1. Actividades y temporalización</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. Actividades y temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. Actividades y temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.1. Actividades y temporalización</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4k-bbbvkz4pz</odePageId>
+      <odeBlockId>block-1780943314110-go3lr31ep</odeBlockId>
+      <blockName>Liberté, Égalité et Créativité</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4k-bbbvkz4pz</odePageId>
+          <odeBlockId>block-1780943314110-go3lr31ep</odeBlockId>
+          <odeIdeviceId>idevice-1780943314080-ab1vp5y7p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la Situación de Aprendizaje "Liberté, Égalité et Créativité" se desarrollará una secuencia de actividades estructuradas en 8 sesiones: </p>
+<p><img src="{{context_path}}/content/resources/TAREA 7.1.jpeg" title="Secuenciación de actividades" width="1024" height="1536" alt="Secuenciación de actividades" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780943314080-ab1vp5y7p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la Situación de Aprendizaje \"Liberté, Égalité et Créativité\" se desarrollará una secuencia de actividades estructuradas en 8 sesiones: </p>\n<p><img src=\"{{context_path}}/content/resources/TAREA 7.1.jpeg\" title=\"Secuenciación de actividades\" width=\"1024\" height=\"1536\" alt=\"Secuenciación de actividades\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4l-to97n6pfk</odePageId>
+  <odeParentPageId>page-mq5tgw4k-bbbvkz4pz</odeParentPageId>
+  <pageName>2.1.1. Producto final</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1.1. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1.1. Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.1.1. Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4l-to97n6pfk</odePageId>
+      <odeBlockId>block-1780956232617-pyqie4ck4</odeBlockId>
+      <blockName>¡BIENVENIDOS A LA FASHION WEEK DE PARÍS!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4l-to97n6pfk</odePageId>
+          <odeBlockId>block-1780956232617-pyqie4ck4</odeBlockId>
+          <odeIdeviceId>idevice-1780956232615-rzpj71loq</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>En esta Situación de Aprendizaje os convertiréis en auténticos diseñadores y diseñadoras de moda. A lo largo del proyecto crearéis vuestra propia casa de moda inspirada en la famosa Fashion Week de París.</p>
+<p>Trabajaréis en pequeños grupos cooperativos y tendréis que diseñar una marca original utilizando vuestra creatividad y el vocabulario aprendido en francés relacionado con la ropa, los accesorios y los colores.</p>
+<p><em><strong>¿Qué tendréis que crear?</strong></em><br>Primero elaboraréis una presentación digital en Canva donde incluiréis:</p>
+<ul>
+<li>El nombre de vuestra marca</li>
+<li>El logo de la casa de moda.</li>
+<li>El estilo de ropa que vende vuestra marca.</li>
+<li>Diferentes prendas y accesorios diseñados por vosotros y vosotras.</li>
+<li>Un eslogan publicitario en francés. &nbsp;</li>
+</ul>
+<p><br>Finalmente, grabaréis un vídeo utilizando la herramienta Chroma. En este vídeo participaréis como si fuerais modelos y diseñadores famosos desfilando en la Fashion Week de París mientras presentáis vuestros diseños en francés.</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>En esta Situación de Aprendizaje os convertiréis en diseñadores y diseñadoras de moda.</p>
+<p>Durante el proyecto crearéis vuestra propia casa de moda inspirada en la Fashion Week de París.</p>
+<p>Trabajaréis en pequeños grupos.</p>
+<p>Usaréis vuestra creatividad y el vocabulario en francés sobre:</p>
+<ul>
+<li>La ropa</li>
+<li>Los accesorios</li>
+<li>Los colores</li>
+</ul>
+<ol>
+<li>Primero haréis una <strong>presentación digital en Canva.</strong> En ella incluiréis: El nombre de vuestra marca, El logo de la casa de moda, El estilo de ropa de vuestra marca., Prendas y accesorios diseñados por vuestro grupo, Un eslogan publicitario en francés.</li>
+<li>Después grabaréis un <strong>vídeo </strong>usando la herramienta <strong>Chroma Key. </strong>En el vídeo actuaréis como modelos y diseñadores famosos.</li>
+<li>Presentaréis vuestros diseños en francés como si estuvierais desfilando en la Fashion Week de París.</li>
+</ol><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4l-z960npuzo</odePageId>
+  <odeParentPageId>page-mq5tgw4k-rv0r0ggr5</odeParentPageId>
+  <pageName>2.2. Evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.2. Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4l-z960npuzo</odePageId>
+      <odeBlockId>block-1780947820943-2kbzz94kx</odeBlockId>
+      <blockName>TAREAS Y CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4l-z960npuzo</odePageId>
+          <odeBlockId>block-1780947820943-2kbzz94kx</odeBlockId>
+          <odeIdeviceId>idevice-1780947820936-2w7ra9yv6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se muestra una tabla en la que se relacionan las distintas tareas con los criterios de evaluación correspondientes, el agrupamiento, la temporalización aproximada y las herramientas sugeridas.</p>
+<p><img src="{{context_path}}/content/resources/WhatsApp Image 2026-06-08 at 22.18.27.jpeg" title="RELACIÓN DE TAREAS Y CRITERIOS DE EVALUACIÓN" width="1261" height="841" alt="RELACIÓN DE TAREAS Y CRITERIOS DE EVALUACIÓN" /><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780947820936-2w7ra9yv6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se muestra una tabla en la que se relacionan las distintas tareas con los criterios de evaluación correspondientes, el agrupamiento, la temporalización aproximada y las herramientas sugeridas.</p>\n<p><img src=\"{{context_path}}/content/resources/WhatsApp Image 2026-06-08 at 22.18.27.jpeg\" title=\"RELACIÓN DE TAREAS Y CRITERIOS DE EVALUACIÓN\" width=\"1261\" height=\"841\" alt=\"RELACIÓN DE TAREAS Y CRITERIOS DE EVALUACIÓN\" /><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4l-k54a7hcst</odePageId>
+  <odeParentPageId>page-mq5tgw4k-rv0r0ggr5</odeParentPageId>
+  <pageName>2.2.1. Herramientas de Evaluación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2.1. Herramientas de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2.1. Herramientas de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.2.1. Herramientas de Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4l-k54a7hcst</odePageId>
+      <odeBlockId>block-1780943588734-rc06pz6bi</odeBlockId>
+      <blockName>CASA DE MODAS (CANVA)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4l-k54a7hcst</odePageId>
+          <odeBlockId>block-1780943588734-rc06pz6bi</odeBlockId>
+          <odeIdeviceId>idevice-1780943588733-f193tjocf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se presenta la diana de evaluación que se empleará para valorar las casas de moda diseñadas con Canva.</p>
+<p><img src="{{context_path}}/content/resources/d9379166-755f-4e78-bfb6-99db265e8011.png" title="Diana de Evaluación" width="1254" height="1254" alt="Diana de Evaluación" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780943588733-f193tjocf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se presenta la diana de evaluación que se empleará para valorar las casas de moda diseñadas con Canva.</p>\n<p><img src=\"{{context_path}}/content/resources/d9379166-755f-4e78-bfb6-99db265e8011.png\" title=\"Diana de Evaluación\" width=\"1254\" height=\"1254\" alt=\"Diana de Evaluación\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4l-k54a7hcst</odePageId>
+      <odeBlockId>block-1780947377311-g0nxe58mc</odeBlockId>
+      <blockName>DESFILE DE MODA (CHROMA KEY)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4l-k54a7hcst</odePageId>
+          <odeBlockId>block-1780947377311-g0nxe58mc</odeBlockId>
+          <odeIdeviceId>idevice-1780947377309-9sjc28h91</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación del desfile de moda de la Fashion Week de París se realizará mediante la siguiente rúbrica de evaluación.</p>
+<p><img src="{{context_path}}/content/resources/8e3647a8-49c6-45f9-8787-975fe9e50af1.png" title="Rúbrica Desfile" width="1261" height="841" alt="Rúbrica Desfile" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780947377309-9sjc28h91","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación del desfile de moda de la Fashion Week de París se realizará mediante la siguiente rúbrica de evaluación.</p>\n<p><img src=\"{{context_path}}/content/resources/8e3647a8-49c6-45f9-8787-975fe9e50af1.png\" title=\"Rúbrica Desfile\" width=\"1261\" height=\"841\" alt=\"Rúbrica Desfile\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4l-u6tt7630n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Recursos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4l-vug8y2ri9</odePageId>
+  <odeParentPageId>page-mq5tgw4l-u6tt7630n</odeParentPageId>
+  <pageName>3.1. Curación de contenido profesorado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1. Curación de contenido profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1. Curación de contenido profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.1. Curación de contenido profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4l-vug8y2ri9</odePageId>
+      <odeBlockId>block-1780941568214-8mmqa3bpw</odeBlockId>
+      <blockName>MIS RECURSOS COMO DOCENTE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4l-vug8y2ri9</odePageId>
+          <odeBlockId>block-1780941568214-8mmqa3bpw</odeBlockId>
+          <odeIdeviceId>idevice-1780941568186-mte8lib5t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado, destinado al profesorado, se recopilan diferentes recursos digitales y materiales de apoyo que serán utilizados para facilitar el desarrollo de la SdA. </p>
+<p style="text-align: center;"><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/shared/AAAAAVQVUqkAA41-5ElY9A=="></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780941568186-mte8lib5t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado, destinado al profesorado, se recopilan diferentes recursos digitales y materiales de apoyo que serán utilizados para facilitar el desarrollo de la SdA. </p>\n<p style=\"text-align: center;\"><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/shared/AAAAAVQVUqkAA41-5ElY9A==\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4m-3ljjsqm0l</odePageId>
+  <odeParentPageId>page-mq5tgw4l-u6tt7630n</odeParentPageId>
+  <pageName>3.2. Curación de contenido alumnado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2. Curación de contenido alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2. Curación de contenido alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.2. Curación de contenido alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4m-3ljjsqm0l</odePageId>
+      <odeBlockId>block-1780957559859-kn0byihhx</odeBlockId>
+      <blockName>RECURSOS PARA LA FASHION WEEK DE PARÍS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4m-3ljjsqm0l</odePageId>
+          <odeBlockId>block-1780957559859-kn0byihhx</odeBlockId>
+          <odeIdeviceId>idevice-1780957559858-rl2ru6czs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente Padlet encontraréis diferentes recursos digitales que os ayudarán a descubrir vocabulario relacionado con la moda, los accesorios y la Fashion Week de París.</p>
+<p>Además, podréis consultar ejemplos, imágenes e ideas que os servirán de inspiración para crear vuestra propia casa de moda y preparar vuestro desfile final en francés.</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/s4nli6twuyui2222" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780957559858-rl2ru6czs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente Padlet encontraréis diferentes recursos digitales que os ayudarán a descubrir vocabulario relacionado con la moda, los accesorios y la Fashion Week de París.</p>\n<p>Además, podréis consultar ejemplos, imágenes e ideas que os servirán de inspiración para crear vuestra propia casa de moda y preparar vuestro desfile final en francés.</p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/s4nli6twuyui2222\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4m-pnkrx7lkj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Protección de datos y ciudadanía digital</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Protección de datos y ciudadanía digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Protección de datos y ciudadanía digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Protección de datos y ciudadanía digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4m-pnkrx7lkj</odePageId>
+      <odeBlockId>block-1780939114320-4cyx6yiy6</odeBlockId>
+      <blockName>HERRAMIENTAS PARA TU SEGURIDAD DIGITAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4m-pnkrx7lkj</odePageId>
+          <odeBlockId>block-1780939114320-4cyx6yiy6</odeBlockId>
+          <odeIdeviceId>idevice-1780939114316-3vg0jq0ux</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se incluyen en el documento adjunto varias buenas prácticas orientadas a la protección de datos y al desarrollo de una ciudadanía digital responsable.</p>
+<p><img src="{{context_path}}/content/resources/SEGURIDAD DIGITAL.png" title="Seguridad Digital" width="540" height="1359" alt="Seguridad Digital" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780939114316-3vg0jq0ux","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se incluyen en el documento adjunto varias buenas prácticas orientadas a la protección de datos y al desarrollo de una ciudadanía digital responsable.</p>\n<p><img src=\"{{context_path}}/content/resources/SEGURIDAD DIGITAL.png\" title=\"Seguridad Digital\" width=\"540\" height=\"1359\" alt=\"Seguridad Digital\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5tgw4m-t1i9hil20</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Créditos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5tgw4m-t1i9hil20</odePageId>
+      <odeBlockId>block-1780995099824-51pf2ywee</odeBlockId>
+      <blockName>AUTORÍA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5tgw4m-t1i9hil20</odePageId>
+          <odeBlockId>block-1780995099824-51pf2ywee</odeBlockId>
+          <odeIdeviceId>idevice-1780995099815-18s55d6qj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 400px;"><img src="https://plus.unsplash.com/premium_vector-1726156886497-a36ee8afb9c5?q=80&amp;w=1160&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="Autoría" width="400" height="400" alt="Autoría" />
+<figcaption class="figcaption"><a href="https://unsplash.com/es/@evaaa_wahyuni" class="author" target="_blank" rel="noopener">Eva Wahyuni</a>. <span class="title"><em>Autoría</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<table border="4" style="width: 200.065%; height: 324.046px; background-color: #C2E0F4; border-color: #000000; border-style: none;">
+<tbody>
+<tr style="height: 37.8047px;">
+<td style="width: 45.1213%; height: 37.8047px; text-align: center;"><span style="background-color: #3598db;"><em><strong>Autoría</strong></em></span></td>
+<td style="width: 54.8774%; height: 37.8047px; text-align: center;">Belén Marruecos Fernández</td>
+</tr>
+<tr style="height: 153.023px;">
+<td style="width: 45.1213%; height: 153.023px; text-align: center;"><span style="background-color: #3598db;"><em><strong>Descripción</strong></em></span></td>
+<td style="width: 54.8774%; height: 153.023px; text-align: center;">Situación de Aprendizaje basada en el diseño creativo de una casa de moda inspirada en la Fashion Week de París, utilizando herramientas digitales y el trabajo cooperativo.</td>
+</tr>
+<tr style="height: 37.8047px;">
+<td style="width: 45.1213%; height: 37.8047px; text-align: center;"><span style="background-color: #3598db;"><em><strong>Licencia</strong></em></span></td>
+<td style="width: 54.8774%; height: 37.8047px; text-align: center;">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).</td>
+</tr>
+<tr style="height: 95.4141px;">
+<td style="width: 45.1213%; height: 95.4141px; text-align: center;"><span style="background-color: #3598db;"><em><strong>Descarga del archivo editable</strong></em></span></td>
+<td style="width: 54.8774%; height: 95.4141px; text-align: center;" title=""><a href="https://drive.google.com/file/d/19CK9PxwB-R0S7DiEKJDp5ngVap6SaOu8/view?usp=sharing">https://drive.google.com/file/d/19CK9PxwB-R0S7DiEKJDp5ngVap6SaOu8/view?usp=sharing</a></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780995099815-18s55d6qj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 400px;\"><img src=\"https://plus.unsplash.com/premium_vector-1726156886497-a36ee8afb9c5?q=80&amp;w=1160&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\" title=\"Autoría\" width=\"400\" height=\"400\" alt=\"Autoría\" />\n<figcaption class=\"figcaption\"><a href=\"https://unsplash.com/es/@evaaa_wahyuni\" class=\"author\" target=\"_blank\" rel=\"noopener\">Eva Wahyuni</a>. <span class=\"title\"><em>Autoría</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<table border=\"4\" style=\"width: 200.065%; height: 324.046px; background-color: #C2E0F4; border-color: #000000; border-style: none;\">\n<tbody>\n<tr style=\"height: 37.8047px;\">\n<td style=\"width: 45.1213%; height: 37.8047px; text-align: center;\"><span style=\"background-color: #3598db;\"><em><strong>Autoría</strong></em></span></td>\n<td style=\"width: 54.8774%; height: 37.8047px; text-align: center;\">Belén Marruecos Fernández</td>\n</tr>\n<tr style=\"height: 153.023px;\">\n<td style=\"width: 45.1213%; height: 153.023px; text-align: center;\"><span style=\"background-color: #3598db;\"><em><strong>Descripción</strong></em></span></td>\n<td style=\"width: 54.8774%; height: 153.023px; text-align: center;\">Situación de Aprendizaje basada en el diseño creativo de una casa de moda inspirada en la Fashion Week de París, utilizando herramientas digitales y el trabajo cooperativo.</td>\n</tr>\n<tr style=\"height: 37.8047px;\">\n<td style=\"width: 45.1213%; height: 37.8047px; text-align: center;\"><span style=\"background-color: #3598db;\"><em><strong>Licencia</strong></em></span></td>\n<td style=\"width: 54.8774%; height: 37.8047px; text-align: center;\">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).</td>\n</tr>\n<tr style=\"height: 95.4141px;\">\n<td style=\"width: 45.1213%; height: 95.4141px; text-align: center;\"><span style=\"background-color: #3598db;\"><em><strong>Descarga del archivo editable</strong></em></span></td>\n<td style=\"width: 54.8774%; height: 95.4141px; text-align: center;\" title=\"\"><a href=\"https://drive.google.com/file/d/19CK9PxwB-R0S7DiEKJDp5ngVap6SaOu8/view?usp=sharing\">https://drive.google.com/file/d/19CK9PxwB-R0S7DiEKJDp5ngVap6SaOu8/view?usp=sharing</a></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
